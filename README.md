@@ -1,4 +1,4 @@
-# ont_ai
+# ont-ai
 
 Text-to-SPARQL with the FOAF ontology. Passing entire ontology as context. 
 
